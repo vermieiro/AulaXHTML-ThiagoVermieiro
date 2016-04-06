@@ -1,0 +1,21 @@
+html,body{
+	margin:0 auto;
+	display:table;
+}
+#conteudo{
+	width:150%;
+	border-top:1px solid;
+	border-right:1px solid;
+	border-bottom:1px solid;
+	border-left:5px double black;
+}
+#PrimeiraParte{
+	border-bottom:1px solid ;
+	border-bottom-color:grey;
+	margin-left:10%;
+}#SegundaParte{
+	margin-left:10%;
+}
+li{
+	margin-left:20%;
+}

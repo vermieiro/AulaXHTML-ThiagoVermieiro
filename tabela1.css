@@ -1,0 +1,22 @@
+html,body{
+	margin:0 auto;
+	display:table;
+}
+table{
+	border-collapse:collapse;
+	border:1px solid;
+	width: 800px;
+}
+tr{
+	border-collapse:collapse;
+	border:1px solid;
+	width: 200px;
+}
+td{
+	border-collapse:collapse;
+	border:1px solid;
+	width: 200px;
+}
+#TextCenter{
+	text-align:center;
+}

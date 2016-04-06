@@ -1,0 +1,27 @@
+html,body{
+	
+	margin:0 auto;
+	display:table;
+}
+table{
+	text-align:center;
+	margin-top:50px;
+	border-collapse:collapse;
+	border:1px solid;
+	width: 800px;
+}
+tr{
+	
+	border-collapse:collapse;
+	border:1px solid;
+	width: 200px;
+}
+td{
+	border-collapse:collapse;
+	border:1px solid;
+	width: 200px;
+	height:50px;
+}
+#Color{
+	background-color:silver;
+}
