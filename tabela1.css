@@ -17,6 +17,6 @@ td{
 	border:1px solid;
 	width: 200px;
 }
-#TextCenter{
+.TextCenter{
 	text-align:center;
 }
